@@ -13,7 +13,7 @@ int main(){
 }
 
 int reverse_integer(int num){
-    int reversed_num = 0; int remainder;
+    int reversed_num = 0; 
     while(num != 0){
         reversed_num *= 10;
         reversed_num += num%10;
