@@ -1,0 +1,32 @@
+# GCC outputs
+a.out
+*.out
+
+# Linux executables (no extension)
+run
+program
+main
+test
+*.run
+
+# Object files
+*.o
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Swap files
+*.swp
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
